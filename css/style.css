@@ -472,7 +472,7 @@ body {
 .testimonial-box {
   position:absolute;
     top:-5rem;
-    left:-10rem;
+    left:0rem;
   background-color: white;
   height: 30rem;
   width: 60rem;
@@ -480,7 +480,7 @@ body {
   .testimonial-box1 {
     position:absolute;
     top:30rem;
-    left:25rem;
+    left:45rem;
   background-color: white;
   height: 30rem;
   width: 60rem;
