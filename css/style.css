@@ -12,7 +12,6 @@
   position:fixed;
   top:1%;
   left:78rem;
-  border-bottom: 2px solid #101011;
   padding:1.3px 7px;
 }
 .navigation-items--1:hover{
@@ -25,7 +24,6 @@
   position:fixed;
   top:1%;
   left:15rem;
-  border-bottom: 2px solid #101011;
   padding:1.3px 7px;
 }
 .navigation-items--2:hover{
@@ -38,7 +36,6 @@
   position:fixed;
   top:1%;
   left:35rem;
-  border-bottom: 2px solid #101011;
   padding:1.3px 7px;
 }
 .navigation-items--3:hover{
@@ -51,7 +48,6 @@
   position:fixed;
   top:1%;
   left:50rem;
-  border-bottom: 2px solid #101011;
   padding:1.3px 7px;
 }
 .navigation-items--4:hover{
@@ -64,7 +60,6 @@
   position:fixed;
   top:1%;
   left:65rem;
-  border-bottom: 2px solid #101011;
   padding:1.3px 7px;
 }
 .navigation-items--5:hover{
