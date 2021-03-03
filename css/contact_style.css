@@ -1,0 +1,54 @@
+
+.header{
+	font-color:black;
+	font-size:30px;
+	text-align: center;
+}
+.sub-header{
+	text-align: center;
+	font-size: 25px;
+}
+.form-box{
+	font-size: 25px;
+	margin-left:30%;
+	margin-top: 50px;
+
+}
+.form-items{
+	padding:10px 0;
+}
+.hello1{
+	font-size: 25px;
+	width: 30%;
+	margin-left:10%;
+}
+.hello2{
+	font-size: 25px;
+	width: 30%;
+	margin-left:8%;
+}
+.hello3{
+	font-size: 25px;
+	width: 30%;
+	margin-left:6%;
+}
+.hello5{
+	font-size: 20px;
+	width: 30%;
+	margin-left:7%;
+}
+.btn{
+	font-size: 25px;
+	color: white;
+	background-color: red;
+	padding: 6px 6px;
+	border-radius:20px;
+	border-style: unset;
+}
+.btn:hover{
+	background-color: #E810C7;
+}
+.btn-box{
+	margin-top: 5%;
+	margin-left:20%;
+}
