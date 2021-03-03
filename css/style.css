@@ -136,21 +136,20 @@
   .header__logo-box {
     position: absolute;
     top: 15%;
-    left: 42%;
+    left: 38%;
     text-align: center;
     animation: logoanime 10s infinite; }
   .header__logo-image {
     height: 20rem; }
   .header__text-box {
     position: absolute;
-    top: 25%;
-    left: 7%;
-    transform: translate(50%, 50%);
+    top: 38%;
+    left: 24%;
     text-align: center; }
   .header__btn-box {
     position: absolute;
     top: 60%;
-    left:36.5%;
+    left:32.5%;
     text-align: center; }
 
 .footer-section {
@@ -520,9 +519,9 @@ body {
   position: relative;
   padding: 10rem 0;
   height: 100rem;
-  width: 100%; }
+  width: 153rem; }
 .footer-section{
-  width: 100%;
+  width: 153rem;
   height: 500px;
   position: relative;
   background-color:#4F4A4A;
