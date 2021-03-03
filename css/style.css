@@ -91,6 +91,7 @@
 .header {
   padding: 0;
   height:80rem;
+  width: 153rem;
   position: relative;
   transition: all 1.5s; }
   .header__slider--1 {
@@ -136,20 +137,20 @@
   .header__logo-box {
     position: absolute;
     top: 15%;
-    left: 38%;
+    left: 42%;
     text-align: center;
     animation: logoanime 10s infinite; }
   .header__logo-image {
     height: 20rem; }
   .header__text-box {
     position: absolute;
-    top: 38%;
-    left: 24%;
+    top: 36%;
+    left: 28%;
     text-align: center; }
   .header__btn-box {
     position: absolute;
     top: 60%;
-    left:32.5%;
+    left:36.5%;
     text-align: center; }
 
 .footer-section {
@@ -513,7 +514,8 @@ body {
 
 .about-section {
   background-color: #f7f7f7;
-  padding: 6rem 3rem; }
+  padding: 6rem 3rem;
+  width: 153rem; }
 
 .testimonial-section {
   position: relative;
