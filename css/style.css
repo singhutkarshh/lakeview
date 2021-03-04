@@ -481,7 +481,15 @@ body {
   .testimonial-box1 {
     position:absolute;
     top:30rem;
-    left:45rem;
+    left:35rem;
+  background-color: white;
+  height: 30rem;
+  width: 60rem;
+  border-radius: 4rem; }
+  .testimonial-box2 {
+    position:absolute;
+    top:-5rem;
+    left:65rem;
   background-color: white;
   height: 30rem;
   width: 60rem;
