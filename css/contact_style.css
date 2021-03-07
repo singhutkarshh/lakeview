@@ -40,14 +40,15 @@
 .btn{
 	font-size: 25px;
 	color: white;
-	background-color: red;
-	padding: 6px 6px;
-	border-radius:20px;
-	border-style: unset;
+	background-color:#2E31B4;
+	padding: 3px 3px;
+	border-radius:10px;
+	border:2px solid black ;
 }
 .btn:hover{
-	background-color: #E810C7;
-}
+	background-color:#6A6EC1;
+	
+	}
 .btn-box{
 	margin-top: 5%;
 	margin-left:20%;
