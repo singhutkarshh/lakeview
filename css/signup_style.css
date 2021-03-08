@@ -1,8 +1,29 @@
-
+body,html{
+	font-size:24px;
+	font-weight: 200;
+}
+.container{
+	height:750px;
+	background-color: grey;
+	margin-top: -30px;
+	position: relative;
+}
+.image{
+	padding-top: 10px;
+	padding-left: 40px;
+	margin-bottom: -30px;
+	height:100px;
+	width:100px;
+	display: inline-block;
+}
 .header{
-	font-color:black;
-	font-size:30px;
+	position:absolute;
+	left: 42%;
+	font-size:40px;
 	text-align: center;
+	font-weight: 200;
+	letter-spacing:3px;
+	display: inline-block;
 }
 .sub-header{
 	text-align: center;
@@ -18,17 +39,17 @@
 	padding:10px 0;
 }
 .hello1{
-	font-size: 25px;
+	font-size: 20px;
 	width: 30%;
-	margin-left:10%;
+	margin-left:10.5%;
 }
 .hello2{
-	font-size: 25px;
+	font-size: 20px;
 	width: 30%;
 	margin-left:8%;
 }
 .hello3{
-	font-size: 25px;
+	font-size: 20px;
 	width: 30%;
 	margin-left:6%;
 }
