@@ -26,22 +26,26 @@
     </div>
   </div>
 </nav>
-      <div class="container " >
+      <div class="container">
         <div class="row">
-            <div class="col">
-              <img src="./img/logo.png" style="width:150px;height:150px;">
+            <div class="col-3">
+              <img src="./img/logo.png" style="width:150px;height:150px;margin-bottom:-30px;">
             </div>
-              <div class="col-8">
-                  <h1 style="padding-top:50px"> Welcome To Musical Notes </h1> 
-              </div>
-             
+              <div class="col">
+                  <h1 style="padding-top:55px;"> Welcome To Musical Notes </h1> 
+              </div>     
         </div>
+        <hr>
+      </div>
+  <div class="row">
+    <div class="col-2"></div>
+      <div class="col">
         <div class="card my-3" >
           <div class="card-body">
               <h5 class="card-title">Want to Save Something related to Music?? (Add a Note) </h5>
+              <input type="text" name="title-note" id="titleTxt"placeholder="Title" style="margin-bottom:10px;width:300px;" autocomplete>
               <div class="form-floating">
                  <textarea class="form-control" placeholder="Type Your Note Here" id="addTxt" autocomplete autofocus style="font-size:25px;"></textarea>
-            <label for="floatingTextarea"  ></label>
              </div>
               <button class="btn btn-primary my-4" id="addBtn">Add Notes</button>
           </div>
@@ -49,7 +53,10 @@
           <h3>Your Notes</h3>
           <hr>
           <div id="notes" class="row container"></div>
-      </div>  
+      </div>
+      <div class="col-2"></div>
+  </div> 
+
       
 
 
