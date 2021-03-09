@@ -1,6 +1,11 @@
 
 //same function adding at start to show all notes as soon as page reloads
 showNotes();
+
+//for preventing null error bug
+if(localStorage.getItem("notes")==null){
+	localStorage.clear();
+}
 // if a user adds a note then add it to local storage
 let addBtn = document.getElementById("addBtn");
 
